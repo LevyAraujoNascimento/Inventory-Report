@@ -1,4 +1,4 @@
-from inventory_report import cli  # pragma: no cover
+from inventory_report import cli  # pragma: no cover Teste
 
 
 def main() -> None:  # pragma: no cover
